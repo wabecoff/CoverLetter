@@ -1,0 +1,41 @@
+Senior Backend Software Engineer - Onsite position in Menlo Park, California. Only candidates currently based in US will be considered.
+
+Responsibilities:
+- Provide engineering prowess to the team as you develop and drive heterogeneous applications for the beginning and end of our lab process.
+- Drive the delivery to production of robust and efficient regulated software that meets our needs as we rapidly scale.
+- Collaborate with interdisciplinary teams to deliver on complex domain problems.
+- Collaborate and lead technical discussions within the team.
+- Support the operations teams that use the systems you build.
+- Provide technical mentoring to software engineers helping them to rapidly grow in their careers.
+
+Requirements:
+- BS with 5+ years, MS with 3+ years or PhD with 1-2 years professional experience
+- Our backend technical stack is Java, Go and Python.
+- Working experiences in object oriented software environment that are highly complicated.
+- A commitment and passion for technical excellence and quality.
+- Experiences building scalable, well architected production ready solution on the backend.
+- Experience with writing automated test as part of your development workflow.
+- Comfortable working in a microservices environment.
+
+Desired Skills:
+- Go experience is preferred
+- Working experience in regulated environments.
+
+Benefits:
+- Based on the role, colleagues may be eligible to participate in an annual bonus plan tied to company and individual performance, or an incentive plan.
+- We also offer a long-term incentive plan to align company and colleague success over time.
+- In addition, we offer a progressive benefit package, including flexible time-off, a 401k with a company match, and alongside our medical, dental, vision plans, carefully selected mindfulness offerings.
+
+Salary information for Senior Backend Software Engineer positions:
+
+- Senior Backend Software Engineer: 
+    - Estimated salary: $137,415 per year
+
+- Senior Backend Software Engineer: MPK 3327
+    - Estimated salary: $134,818 per year
+
+- Senior Backend Software Engineer - Roblox OS
+    - Estimated salary: $105,846 per year
+
+- Senior Software Engineer, Backend
+    - Estimated salary: $164,123 per year

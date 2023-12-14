@@ -1,0 +1,47 @@
+The Department of Medicine, Division of Cardiovascular Medicine at Stanford University is seeking a talented Bioinformatics Engineer to join the Bioinformatics Core (BIC) of the Molecular Transducers of Physical Activity Consortium (MoTrPAC). As part of this groundbreaking national research consortium, you will help unravel the molecular mechanisms underlying the benefits of physical activity. Under the supervision of co-PIs Dr. Euan Ashley and Dr. Matthew Wheeler, you will play a crucial role in shaping the future of personalized exercise science and public health.
+
+By joining our team, your proficiency in applying advanced statistical methodologies, such as multivariate analysis, machine learning, and Bayesian approaches, will be essential for uncovering novel insights and driving innovation in our research efforts. Your strong statistical background and expertise in analyzing large biological datasets will contribute significantly to our understanding of complex biological systems and the development of personalized medicine. You will also contribute to the analysis, execution, and development of pipelines and bioinformatic tools for various omics data generated within MoTrPAC. This innovative project integrates large volumes of clinical and densely time-sampled molecular data, pushing the boundaries of biomedical data analytics. Our portal (https://motrpac-data.org) will push the boundaries of biomedical data analytics to provide insight into the basic and translational science of exercise. Working alongside our multidisciplinary team, you will be at the forefront of understanding how physical activity preserves and improves health, ultimately making a lasting impact on human well-being.
+
+Responsibilities:
+As a Bioinformatics Engineer II, you will contribute to the analysis, execution, and development of pipelines and bioinformatic tools for various omics data generated within the MoTrPAC project. Your primary responsibilities will include:
+
+- Applying advanced statistical methodologies, such as multivariate analysis, machine learning, and Bayesian approaches.
+- Analyzing large biological datasets and handling diverse omics data.
+- Contributing to the execution and development of pipelines and bioinformatic tools.
+- Collaborating with a multidisciplinary team.
+
+Qualifications:
+To be successful in this role, you should possess an advanced degree (Ph.D. or M.S.) in a field such as statistics, biomedical informatics, engineering, or computer science along with a minimum of two years of relevant professional experience. They should have expertise in the analysis, execution, and development of pipelines and bioinformatic tools for various omics data and be proficient in programming languages like Python and/or R, as well as Linux bash scripting. Familiarity with pipeline languages, container systems, code management platforms, and systems biology approaches for data integration is also essential. Candidates should demonstrate experience in large-scale data analysis, biological domain knowledge, bioinformatics, and software development team-based projects. Additionally, they should be willing to work in a highly collaborative environment, be able to adapt quickly, possess strong communication skills, and have the capacity to work independently.
+
+Why Join Us?
+If you are a passionate and dedicated professional with the required qualifications and a strong interest in advancing scientific research, we encourage you to apply for this exciting opportunity. Join us in unraveling the mysteries of physical activity and making a lasting impact on human health. A complete application will include a cover letter.
+
+Duties include:
+The job duties listed are typical examples of work performed by positions in this job classification and are not designed to contain or be interpreted as a comprehensive inventory of all duties, tasks, and responsibilities. Specific duties and responsibilities may vary depending on department or program needs without changing the general nature and scope of the job or level of responsibility. Employees may also perform other duties as assigned.
+
+DESIRED QUALIFICATIONS:
+EDUCATION & EXPERIENCE (REQUIRED):
+KNOWLEDGE, SKILLS AND ABILITIES (REQUIRED):
+PHYSICAL REQUIREMENTS:
+Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of his or her job.
+WORKING CONDITIONS:
+WORKING STANDARDS:
+The expected pay range for this position is $84,000 to $126,000 per annum/hour. Stanford University provides pay ranges representing its good faith estimate of what the university reasonably expects to pay for a position. The pay offered to a selected candidate will be determined based on factors such as (but not limited to) the scope and responsibilities of the position, the qualifications of the selected candidate, departmental budget availability, internal equity, geographic location, and external market pay for comparable jobs.
+
+Why Stanford is for You:
+Imagine a world without search engines or social platforms. Consider lives saved through first-ever organ transplants and research to cure illnesses. Stanford University has revolutionized the way we live and enrich the world. Supporting this mission is our diverse and dedicated 17,000 staff. We seek talent driven to impact the future of our legacy. Our culture and unique perks empower you with:
+
+- Stanford is an equal employment opportunity and affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law.
+- Track your opportunities.
+- Consistent with its obligations under the law, the University will provide reasonable accommodations to applicants and employees with disabilities. Applicants requiring a reasonable accommodation for any part of the application or hiring process should contact Stanford University Human Resources at stanfordelr@stanford.edu. For all other inquiries, please submit a contact form.
+- Stanford Home
+- Maps and Directions
+- Search Stanford
+- Emergency Info
+- Terms of Use
+- Privacy
+- Copyright
+- Trademarks
+- Non-Discrimination
+- Accessibility
+

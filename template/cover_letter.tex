@@ -1,0 +1,53 @@
+\documentclass[10pt,letter]{letter}
+\usepackage[utf8]{inputenc}
+
+
+\usepackage{TLCcoverletter}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\def\name{First Last} % Name Here
+\signature{\name}
+\address{1234 Street Ave., \\
+Unit \#777 \\ 
+City, State \\
+00000}
+\def\phone{(xxx) xxx-xxxx}
+\def\email{email@email.com}
+\def\LinkedIn{fn-last-name} % linkedin.com/in/______
+\def\role{Data Scientist} % JOB TITLE
+
+%====================
+% Company Info
+%====================
+\def\hm{Jane Doe} % Hiring Manager Name, leave empty if unknown
+\def\position{Senior Data Scientist} % position
+\def\company{Big Data} % company
+\def\source{on LinkedIn} % where was the posting found, "I found ____ "
+
+%==================
+% Header file
+%==================
+\input{_header} % Header
+
+%==================
+% Document begins
+%==================
+
+\begin{document}
+\begin{letter}{\hm \\ Hiring Manager \\ Big Data, Inc. \\ Address line 1 \\ Address line 2  }
+
+\opening{Dear [Hiring Manager],}
+% Change \hm to "hiring manager" or equivalent in company if unknown
+
+\setlength\parindent{.5in}
+\input{sections/opening}
+\input{sections/second}
+\input{sections/closing}
+\input{sections/signoff} 
+
+\closing{Sincerely,}
+\end{letter}
+
+\end{document}
